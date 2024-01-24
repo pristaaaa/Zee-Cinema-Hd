@@ -1,0 +1,1 @@
+var m3u8Link="https://d75dqofg5kmfk.cloudfront.net:443/bpk-tv/Zeecinemahd/default/master.m3u8";jwplayer("jwplayerDiv").setup({playlist:[{sources:[{file:m3u8Link}]}],position:"bottom",autostart:true,stretching:"",width:"100%"}).onError(function(e){console.error("JWPlayer Error:",e);});
