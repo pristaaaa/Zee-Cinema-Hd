@@ -3,5 +3,5 @@ jwplayer("video").setup({
   height: "100%",
   autostart: true,
   mute: false,
-  file: "https://cdn-tv.co.in/myweb/watch.php?id=1000009275&e=.m3u8"
+  file: "https://pubads.g.doubleclick.net/ssai/event/xYKVDAMWTQykwzEAWr3luQ/master.m3u8"
 });
