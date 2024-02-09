@@ -3,5 +3,5 @@ jwplayer("video").setup({
   height: "100%",
   autostart: true,
   mute: false,
-  file: "https://dai.fancode.com/linear/hls/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8"
+  file: "https://cdn-tv.co.in/myweb/watch.php?id=1000009275&e=.m3u8"
 });
