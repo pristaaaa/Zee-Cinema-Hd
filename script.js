@@ -3,5 +3,5 @@ jwplayer("video").setup({
   height: "100%",
   autostart: true,
   mute: false,
-  file: "https://pubads.g.doubleclick.net/ssai/event/xYKVDAMWTQykwzEAWr3luQ/master.m3u8"
+  file: "https://pubads.g.doubleclick.net/ssai/event/AcRTfDngSn-Lp6VZlxlrsg/master.m3u8"
 });
